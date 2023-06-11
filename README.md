@@ -18,8 +18,7 @@ source venv/bin/activate
 запустив вертуальное окружение скачаем две библеотеки (bs4, translate):
 
 ```
-pip install bs4
-pip install translate
+pip install -r requirements.txt
 ```
 
 Запускаем:
